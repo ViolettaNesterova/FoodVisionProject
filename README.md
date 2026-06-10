@@ -1,8 +1,4 @@
-## Results
 
-![Model Comparison](assets/model_comparison.png)# FoodVisionProject — Object Detection Benchmark
-
----
 **Dataset:** https://universe.roboflow.com/semproject-5w89z/food-detection-tyd55
 
 **Scientific report:**
@@ -11,8 +7,7 @@
 
 ---
 
-<img src="results/plots/head.gif" width="700"/>
-
+![GIF](assets/head.gif)
 ---
 ## Описание проекта
 
@@ -72,7 +67,7 @@
 
 ## Visual Results
 
-<img src="results/plots/model_comparison.png" width="700"/>
+![Model Comparison](assets/model_comparison.png)
 
 ## Выводы
 
