@@ -1,4 +1,6 @@
-# FoodVisionProject — Object Detection Benchmark
+## Results
+
+![Model Comparison](assets/model_comparison.png)# FoodVisionProject — Object Detection Benchmark
 
 ---
 **Dataset:** https://universe.roboflow.com/semproject-5w89z/food-detection-tyd55
