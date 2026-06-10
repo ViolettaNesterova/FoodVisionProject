@@ -1,0 +1,19 @@
+seed: 42
+
+dataset:
+  path: data/raw
+
+models:
+  - ssd
+  - faster_rcnn
+  - yolov8n
+  - yolov11n
+  - yolo26
+  - detr
+
+training:
+  batch_size: 16
+  epochs: 35
+
+evaluation:
+  iou_threshold: 0.5

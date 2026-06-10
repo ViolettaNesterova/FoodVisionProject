@@ -1,0 +1,10 @@
+data/
+results/
+runs/
+logs/
+*.pth
+*.pt
+*.onnx
+.venv/
+__pycache__/
+.DS_Store
