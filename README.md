@@ -4,10 +4,6 @@
 
 **Dataset:** https://universe.roboflow.com/semproject-5w89z/food-detection-tyd55
 
-**Scientific report:**
-
-
-
 ---
 
 ![GIF](assets/head.gif)
